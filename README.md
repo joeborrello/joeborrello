@@ -15,6 +15,7 @@ experiments, and agentic-coding tinkering — plus the occasional hackathon buil
   weather/travel impacts + outcome projections across the continent-spanning 2026 tournament.
 - 🔦 [light-torch](https://github.com/joeborrello/light-torch) —
   STM32/ESP32 embedded software turning real-time motion capture into generative light & audio.
+  Powered the [WAVES](https://nycxdesign.org/programming/nycxdesign-exhibition-shine/waves#) devices on exhibit for SHINE as part of NYCxDesign Week 2026
 - 💬 [ellipsis](https://github.com/joeborrello/ellipsis) —
   Swift/iOS + Python BERT backend; team GRO @ 2019 BCG Digital Ventures hackathon.
 
