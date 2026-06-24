@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi, I'm Joe 👋
 
-<!--
-**joeborrello/joeborrello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Biomedical engineer & maker — advanced manufacturing, materials,
+and the computational/data scaffolding around them. PhD from Mount Sinai;
+ex-CTO; I build the systems behind ambitious technology.
 
-Here are some ideas to get you started:
+**What you'll find here:** civic-data visualizations, embedded/hardware
+experiments, and agentic-coding tinkering — plus the occasional hackathon build.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**A few things I'm proud of:**
+- 🗺️ [nyc-housing-values-2026](https://joeborrello.github.io/nyc-housing-values-2026/) —
+  Leaflet choropleth of NYC home prices (subway + parks overlays); an experiment in
+  how far a coding agent gets on clean public data from one prompt.
+- ⚽ [world-cup-2026-dashboard](https://joeborrello.github.io/world-cup-2026-dashboard) —
+  weather/travel impacts + outcome projections across the continent-spanning 2026 tournament.
+- 🔦 [light-torch](https://github.com/joeborrello/light-torch) —
+  STM32/ESP32 embedded software turning real-time motion capture into generative light & audio.
+- 💬 [ellipsis](https://github.com/joeborrello/ellipsis) —
+  Swift/iOS + Python BERT backend; team GRO @ 2019 BCG Digital Ventures hackathon.
+
+For context: my PhD device screen ran ~500K finite-element simulations on the
+Open Science Grid via a distributed HPC/HTC pipeline I built. I'm a fan of
+open-source hardware and right-to-repair.
+
+**Elsewhere:** [josephborrello.com](https://josephborrello.com) ·
+[Magnitude and Direction](https://magnitudeanddirection.substack.com) ·
+[LinkedIn](https://linkedin.com/in/josephborrello)
