@@ -10,7 +10,7 @@ experiments, and agentic-coding tinkering — plus the occasional hackathon buil
 **A few things I'm proud of:**
 - 🗺️ [nyc-housing-values-2026](https://joeborrello.github.io/nyc-housing-values-2026/) —
   Leaflet choropleth of NYC home prices (subway + parks overlays); an experiment in
-  how far a coding agent gets on clean public data from one prompt.
+  how far a coding agent gets on clean public data from one prompt (and then some follow-ups to dial in UI, haha).
 - ⚽ [world-cup-2026-dashboard](https://joeborrello.github.io/world-cup-2026-dashboard) —
   weather/travel impacts + outcome projections across the continent-spanning 2026 tournament.
 - 🔦 [light-torch](https://github.com/joeborrello/light-torch) —
