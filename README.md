@@ -17,11 +17,8 @@ experiments, and agentic-coding tinkering — plus the occasional hackathon buil
   STM32/ESP32 embedded software turning real-time motion capture into generative light & audio.
   Powered the [WAVES](https://nycxdesign.org/programming/nycxdesign-exhibition-shine/waves#) devices on exhibit for SHINE as part of NYCxDesign Week 2026
 - 💬 [ellipsis](https://github.com/joeborrello/ellipsis) —
-  Swift/iOS + Python BERT backend; team GRO @ 2019 BCG Digital Ventures hackathon.
+  Swift/iOS + Python and BERT/GPT-2 backend; team GRO @ 2019 BCG Digital Ventures hackathon.
 
-For context: my PhD device screen ran ~500K finite-element simulations on the
-Open Science Grid via a distributed HPC/HTC pipeline I built. I'm a fan of
-open-source hardware and right-to-repair.
 
 **Elsewhere:** [josephborrello.com](https://josephborrello.com) ·
 [Magnitude and Direction](https://magnitudeanddirection.substack.com) ·
